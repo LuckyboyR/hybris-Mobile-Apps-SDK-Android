@@ -1,0 +1,782 @@
+[
+    {
+        "outputFile": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\incremental\\mergeB2cLocalDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 79,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 4891,
+                        "endColumn": 80,
+                        "endOffset": 4967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 784,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\themes.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1083
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\themes.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1088,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 7624,
+                        "endLine": 202,
+                        "endColumn": 12,
+                        "endOffset": 8028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 1976
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\themes.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1981,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1883,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 2302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2518
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 6974,
+                        "endLine": 181,
+                        "endColumn": 12,
+                        "endOffset": 7087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2523,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 2637
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4771,
+                        "endLine": 117,
+                        "endColumn": 12,
+                        "endOffset": 4885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2642,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2853
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 8065,
+                        "endLine": 209,
+                        "endColumn": 12,
+                        "endOffset": 8276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2858,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 3347
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3525,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 4014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3352,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 3750
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4020,
+                        "endLine": 105,
+                        "endColumn": 12,
+                        "endOffset": 4418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3755,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 3894
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2872,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 3011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3899,
+                    "endLine": 84,
+                    "endColumn": 12,
+                    "endOffset": 4049
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5529,
+                        "endLine": 138,
+                        "endColumn": 12,
+                        "endOffset": 5679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4054,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 4257
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5320,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 5523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4262,
+                    "endLine": 93,
+                    "endColumn": 12,
+                    "endOffset": 4406
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 5685,
+                        "endLine": 143,
+                        "endColumn": 12,
+                        "endOffset": 5829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4411,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 4628
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 5835,
+                        "endLine": 149,
+                        "endColumn": 12,
+                        "endOffset": 6052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4633,
+                    "endLine": 102,
+                    "endColumn": 12,
+                    "endOffset": 4777
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 6058,
+                        "endLine": 154,
+                        "endColumn": 12,
+                        "endOffset": 6202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4782,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 4927
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 6208,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 6353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4932,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 5076
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 6359,
+                        "endLine": 164,
+                        "endColumn": 12,
+                        "endOffset": 6503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5081,
+                    "endLine": 115,
+                    "endColumn": 12,
+                    "endOffset": 5298
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 6509,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 6726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5303,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 5771
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5776,
+                    "endLine": 127,
+                    "endColumn": 12,
+                    "endOffset": 5989
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 6732,
+                        "endLine": 176,
+                        "endColumn": 12,
+                        "endOffset": 6945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5994,
+                    "endLine": 130,
+                    "endColumn": 12,
+                    "endOffset": 6122
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2738,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 2866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6127,
+                    "endLine": 133,
+                    "endColumn": 12,
+                    "endOffset": 6256
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3017,
+                        "endLine": 76,
+                        "endColumn": 12,
+                        "endOffset": 3146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6261,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 6394
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2465,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6399,
+                    "endLine": 143,
+                    "endColumn": 12,
+                    "endOffset": 6740
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4424,
+                        "endLine": 113,
+                        "endColumn": 12,
+                        "endOffset": 4765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6745,
+                    "endLine": 149,
+                    "endColumn": 12,
+                    "endOffset": 7050
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 7055,
+                    "endLine": 155,
+                    "endColumn": 12,
+                    "endOffset": 7362
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7367,
+                    "endLine": 158,
+                    "endColumn": 12,
+                    "endOffset": 7495
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2604,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 2732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7500,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 7723
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3152,
+                        "endLine": 81,
+                        "endColumn": 12,
+                        "endOffset": 3375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7728,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 8229
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 7093,
+                        "endLine": 192,
+                        "endColumn": 12,
+                        "endOffset": 7594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 8234,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 8372
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3381,
+                        "endLine": 85,
+                        "endColumn": 12,
+                        "endOffset": 3519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 8377,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 8528
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2308,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 2459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 8533,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 8874
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 4973,
+                        "endLine": 127,
+                        "endColumn": 12,
+                        "endOffset": 5314
+                    }
+                }
+            }
+        ]
+    }
+]

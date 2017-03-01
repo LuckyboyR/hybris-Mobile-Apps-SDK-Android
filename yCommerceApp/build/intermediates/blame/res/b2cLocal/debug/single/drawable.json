@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\triangle_button_product_item_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\triangle_button_product_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\tooltip_arrow_down.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\unspecified\\res\\drawable\\tooltip_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\terms_conditions_invalid.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\terms_conditions_invalid.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\action_btn_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\action_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\ic_provider.png",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\hybris-Mobile-Apps-SDK-Android\\yCommerceLibrary\\unspecified\\res\\drawable\\ic_provider.png"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\layout_order_item_pressed.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\layout_order_item_pressed.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\second_btn_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\second_btn_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\action_btn_pressed.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\action_btn_pressed.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\quantity_editext_selected.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\quantity_editext_selected.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\login_background.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\login_background.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\spinner_background.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\second_btn_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\second_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\background_tab.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.astuetz\\pagerslidingtabstrip\\1.0.1\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\login_btn_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\login_btn_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\above_shadow.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.sothree.slidinguppanel\\library\\3.3.0\\res\\drawable\\above_shadow.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\bulk_btn_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\bulk_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\bulk_btn_off.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\bulk_btn_off.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\expandable_btn_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\expandable_btn_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\tooltip_transparent.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\unspecified\\res\\drawable\\tooltip_transparent.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\login_btn_disabled.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\login_btn_disabled.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\layout_product_item_pressed.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\layout_product_item_pressed.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\terms_conditions_valid.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\terms_conditions_valid.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\triangle_button_product_item_pressed.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\triangle_button_product_item_pressed.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\shadow_layout_pressed.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\shadow_layout_pressed.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\login_btn_pressed.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\login_btn_pressed.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\viewpager_indicator_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\viewpager_indicator_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\tooltip_arrow_up.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\unspecified\\res\\drawable\\tooltip_arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\menu_item_cart_nb_items.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\menu_item_cart_nb_items.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\b2c_login_background.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\b2c\\res\\drawable\\b2c_login_background.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\action_btn_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\action_btn_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\viewpager_indicator_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\viewpager_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\expandable_btn_pressed.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\expandable_btn_pressed.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\layout_product_item_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\layout_product_item_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\shadow_layout_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\shadow_layout_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\triangle_button_product_item_disabled.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\triangle_button_product_item_disabled.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\triangle_button_product_item_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\triangle_button_product_item_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\action_btn_disabled.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\action_btn_disabled.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\bulk_btn_on.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\bulk_btn_on.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\splashscreen_background.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\splashscreen_background.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\viewpager_indicator_selected.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\viewpager_indicator_selected.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\layout_order_item_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\layout_order_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\checkout_payment_edittext.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\checkout_payment_edittext.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\terms_conditions_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\terms_conditions_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\expandable_btn_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\expandable_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\action_bar_bg.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\action_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\checkbox_icon_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\checkbox_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\checkbox_border_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\checkbox_border_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\cart_icon_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\cart_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\order_detail_shadow.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\order_detail_shadow.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\second_btn_pressed.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\second_btn_pressed.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\layout_product_item_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\layout_product_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\listitem_background.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\listitem_background.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\shadow_bottom.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\shadow_bottom.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\below_shadow.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.sothree.slidinguppanel\\library\\3.3.0\\res\\drawable\\below_shadow.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\quantity_editext_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\quantity_editext_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\second_btn_disabled.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\second_btn_disabled.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\checkbox_deselected.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\checkbox_deselected.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\shadow_right.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\shadow_layout_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\shadow_layout_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\tooltip_background.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\unspecified\\res\\drawable\\tooltip_background.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\login_btn_selector.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\login_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\quantity_editext_invalid.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\quantity_editext_invalid.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\layout_order_item_default.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\layout_order_item_default.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\b2c_action_bar_bg.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\b2c\\res\\drawable\\b2c_action_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\quantity_editext.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\quantity_editext.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\gridview_item_shadow.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\gridview_item_shadow.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\drawable\\checkbox_selected.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable\\checkbox_selected.xml"
+    }
+]

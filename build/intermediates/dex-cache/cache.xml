@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.google.android.gms-play-services-maps-9.0.0_b9872eeef4ea740bc51780b54ea7cb1e56dcfb82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.google.android.gms-play-services-base-9.0.0_e64939b1d7e0249270f078c11d3a5d32630b6e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.android.support-support-vector-drawable-23.4.0_4410f2aa310740807a21d27d9198d39b6d0d13d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\hybris-Mobile-Apps-SDK-Android\yB2CLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="30eabb7f87cf59b10b2e9a7fe9988d5cfb51e48a">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\hybris-Mobile-Apps-SDK-Android-yB2CLibrary-unspecified_b158fe7ee0ba24c129c302207d4a0d026bf27acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.astuetz-pagerslidingtabstrip-1.0.1_cf9b9ef6c9ce2969388288730533f844c0e57d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.journeyapps-zxing-android-embedded-3.2.0_7574db30d32ac5c4933dbd84add9c01855580ef4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\Documents\Softwares\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\support-annotations-24.2.0_1dc4aad3f4a34acdddcff4177fcf70fbedf9e94f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\hybris-Mobile-Apps-SDK-Android\yScannerLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="63676786bcf005abfb4c3ba401bad898d8970a15">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\hybris-Mobile-Apps-SDK-Android-yScannerLibrary-unspecified_34c82a4adb717add854ecd39a634911fda3fcd51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.android.support-support-v13-23.4.0_1d13b8a46c78b9058a02f20178d72fc8d5d70e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\hybris-Mobile-Apps-SDK-Android\yCommerceLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="603c93a64de2a7390266b696238a106f068b2b68">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\hybris-Mobile-Apps-SDK-Android-yCommerceLibrary-unspecified_fad9ac5a8532c239799ea9e4b147d0d6e809e6af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\internal_impl-23.4.0_cf98ee2634f400a76eb0283cec717219fda2bfdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\jackson-annotations-2.7.0_7caeaef9ff3d1abee318f7878ac981843a8f87f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\commons-lang3-3.4_0c5aff4b3b540a9924f1f8724b278fe14866a732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.android.support-recyclerview-v7-23.1.1_67a9d51c2ae12780eb8f6eae11a225b80b4181bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.google.firebase-firebase-common-9.0.0_f3ab7245ce14da17faf831c1df0816043c04b9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.android.volley-volley-1.0.0_5b814f490d64434649e9025b40ac04f79b3006a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\hybris-Mobile-Apps-SDK-Android\yLocationLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31ebd44c8b225653b532e7899c6327e96a6fc79">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\hybris-Mobile-Apps-SDK-Android-yLocationLibrary-unspecified_b817094cd9e4fd04f39025664c0067b65f97df65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.google.android.gms-play-services-basement-9.0.0_6732f3b2911e84d04adef5d6390460e3e49b6eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.android.support-support-v4-23.4.0_4d3e6b2f2af3a3a1a489adc60b95d99e7c96ce35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.4\1e9c6f3659644aeac84872c3b62d8e363bf4c96d\jackson-databind-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e9c6f3659644aeac84872c3b62d8e363bf4c96d">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\jackson-databind-2.7.4_79830bc8528f19b9d04b67542b790dee6655d36c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ef5362ef793f9212afafc3a50c5839f650115ebd">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.sothree.slidinguppanel-library-3.3.0_ec59403ead7381d46d3545938a9bad03f3e9e720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.android.support-appcompat-v7-23.4.0_3795f16afc68ddbcdac838a7a8769f2cb8ebe670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.4\b8f38a249116b66d804a5ca2b14a3459b7913a94\jackson-core-2.7.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b8f38a249116b66d804a5ca2b14a3459b7913a94">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\jackson-core-2.7.4_41b3216c28239a67fd1bdab99c58299b5868ec49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\internal_impl-23.4.0_421b34c8956d62675aad579230854deba0579936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\hybris-Mobile-Apps-SDK-Android\yUILibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2cc8e968e2db64d5bb92fe07f4c8967e4925a3b">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\hybris-Mobile-Apps-SDK-Android-yUILibrary-unspecified_8eac6addc3d34220ff382562c03a336f0f3a0279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\gson-2.6.2_c66cf88ff3975c2d545c55970c9d3109ce3fe4cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\hybris-Mobile-Apps-SDK-Android\yHTTPClientLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2bb975c786942450d09d2aefcb7287f5e44c0c7">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\hybris-Mobile-Apps-SDK-Android-yHTTPClientLibrary-unspecified_ab40cc82f8159e7200b7e1046f58372f443c5e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\core-3.2.1_6b6ce10d1d74600802a7395ba1cb72dbda68e80d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.google.android.gms-play-services-location-9.0.0_66e6514f43b02456bcd7a22972edd4f53f857c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.google.android.gms-play-services-tasks-9.0.0_f5494a10a17858120ce50a04e1af46715a3ad788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\.gradle\caches\modules-2\files-2.1\net.hockeyapp.android\HockeySDK\3.5.0\1624c0039a56f9cc45915def1632c225326c3c03\HockeySDK-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1624c0039a56f9cc45915def1632c225326c3c03">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\HockeySDK-3.5.0_d1caa9cbd84f66e01792df3216036c0a20af703f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luckyboy.rapudi\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\library-2.4.0_3ce896114df2e35484748548b0ebdf32ff5298a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\com.android.support-animated-vector-drawable-23.4.0_4d2504082c127b16746a46fbcead4ad9f9d77d9a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yLocationLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\entering_geofence.mp3",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yLocationLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\entering_geofence.mp3"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yLocationLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\leaving_geofence.mp3",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yLocationLibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\leaving_geofence.mp3"
+    }
+]

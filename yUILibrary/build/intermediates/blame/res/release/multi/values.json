@@ -1,0 +1,294 @@
+[
+    {
+        "outputFile": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 59,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 58,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 58,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 60,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 60,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 60,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 60,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 53,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 53,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 50,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 50,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 52,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 52,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 52,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 52,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 54,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 530,
+                        "endColumn": 54,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 922,
+                    "endColumn": 46,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 44,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 45,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 44,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 45,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endColumn": 43,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 66,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\conf.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 66,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1613
+                },
+                "from": {
+                    "file": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 519
+                    }
+                }
+            }
+        ]
+    }
+]

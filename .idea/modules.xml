@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hybris-Mobile-Apps-SDK-Android.iml" filepath="$PROJECT_DIR$/hybris-Mobile-Apps-SDK-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yB2BLibrary/yB2BLibrary.iml" filepath="$PROJECT_DIR$/yB2BLibrary/yB2BLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yB2CLibrary/yB2CLibrary.iml" filepath="$PROJECT_DIR$/yB2CLibrary/yB2CLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yCommerceApp/yCommerceApp.iml" filepath="$PROJECT_DIR$/yCommerceApp/yCommerceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yCommerceLibrary/yCommerceLibrary.iml" filepath="$PROJECT_DIR$/yCommerceLibrary/yCommerceLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yHTTPClientLibrary/yHTTPClientLibrary.iml" filepath="$PROJECT_DIR$/yHTTPClientLibrary/yHTTPClientLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yLocationLibrary/yLocationLibrary.iml" filepath="$PROJECT_DIR$/yLocationLibrary/yLocationLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yScannerLibrary/yScannerLibrary.iml" filepath="$PROJECT_DIR$/yScannerLibrary/yScannerLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yUILibrary/yUILibrary.iml" filepath="$PROJECT_DIR$/yUILibrary/yUILibrary.iml" />
+    </modules>
+  </component>
+</project>

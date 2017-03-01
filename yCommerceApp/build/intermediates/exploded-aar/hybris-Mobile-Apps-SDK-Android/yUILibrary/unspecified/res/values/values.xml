@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_alert_critical">#000000</color>
+    <color name="background_alert_error">#F2FF2E22</color>
+    <color name="background_alert_success">#F257c100</color>
+    <color name="background_alert_warning">#F2ff6e00</color>
+    <color name="text_alert_critical">#ffffff</color>
+    <color name="text_alert_error">#ffffff</color>
+    <color name="text_alert_success">#ffffff</color>
+    <color name="text_alert_warning">#ffffff</color>
+    <color name="tooltip_background">#F215213A</color>
+    <declare-styleable name="EditTextPushContent"><attr format="dimension" name="offset"/><attr format="reference" name="anchorId"/></declare-styleable>
+    <declare-styleable name="ListViewSwipeable"><attr format="integer" name="swipeSpeed"/><attr format="integer" name="maxPositionLeft"/><attr format="integer" name="positionAutoSwipe"/></declare-styleable>
+    <item name="alert_view_bottom" type="id"/>
+    <item name="alert_view_icon" type="id"/>
+    <item name="alert_view_text" type="id"/>
+    <item name="alert_view_top" type="id"/>
+    <item name="infinite_scroll_threshold" type="integer">0</item>
+    <style name="style_tooltip" parent="android:Widget.TextView">
+        <item name="android:gravity">center</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:minWidth">100dp</item>
+        <item name="android:maxWidth">250dp</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

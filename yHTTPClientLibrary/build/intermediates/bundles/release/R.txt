@@ -1,0 +1,2 @@
+int string error_no_connection 0x7f020000
+int string error_unknown 0x7f020001

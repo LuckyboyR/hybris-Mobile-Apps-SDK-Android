@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_transparent.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\drawable\\tooltip_transparent.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_arrow_up.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\drawable\\tooltip_arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_background.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\drawable\\tooltip_background.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_arrow_down.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yUILibrary\\res\\drawable\\tooltip_arrow_down.xml"
+    }
+]

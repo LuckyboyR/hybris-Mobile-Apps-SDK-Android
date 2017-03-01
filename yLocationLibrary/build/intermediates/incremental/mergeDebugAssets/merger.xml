@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yLocationLibrary\assets"/><source path="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yLocationLibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yLocationLibrary\build-types\debug\assets"/></dataSet></merger>

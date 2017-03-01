@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yB2CLibrary\assets"/><source path="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yB2CLibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yB2CLibrary\build-types\release\assets"/></dataSet></merger>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\xml\\settings.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\xml\\url_settings.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\xml\\url_settings.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\xml\\syncadapter.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\xml\\searchable_products.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\xml\\searchable_products.xml"
+    },
+    {
+        "merged": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\xml\\searchable_orders.xml",
+        "source": "C:\\Y6.3.0.0\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\xml\\searchable_orders.xml"
+    }
+]
