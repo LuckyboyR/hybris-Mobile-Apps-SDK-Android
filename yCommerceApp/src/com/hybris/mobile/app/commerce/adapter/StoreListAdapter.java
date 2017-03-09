@@ -26,6 +26,7 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.LatLngBounds;
 import com.hybris.mobile.app.commerce.IntentConstants;
 import com.hybris.mobile.app.commerce.R;
 import com.hybris.mobile.app.commerce.activity.StoreDetailsActivity;
@@ -46,6 +47,15 @@ public class StoreListAdapter extends ArrayAdapter<PointOfService> {
     private DeviceLocation mDeviceLocation;
     private StoreListFragment.MapActions mMapActions;
     private static final int earthRadius = 6371;
+
+    //=======
+    float[] results = new float[1];
+
+    // Dummy distance as far as possible
+    float ndistance = 1000000000;
+
+    LatLng nearestItem = null;
+
 
     public StoreListAdapter(Activity context, DeviceLocation deviceLocation, StoreListFragment.MapActions mapActions, List<PointOfService> values) {
         super(context, R.layout.item_store_locator, values);
@@ -86,6 +96,27 @@ public class StoreListAdapter extends ArrayAdapter<PointOfService> {
         DecimalFormat df = new DecimalFormat("#.00");
         store.setFormattedDistance(df.format(distance) +" km");
 
+
+        // First item initialization
+        if (nearestItem == null) {
+            nearestItem = new LatLng(store.getGeoPoint().getLatitude(),store.getGeoPoint().getLongitude());
+        }
+
+        // Calculating the distance
+        Location.distanceBetween(mDeviceLocation.getDeviceLocation().getLatitude(),mDeviceLocation.getDeviceLocation().getLongitude(),
+                store.getGeoPoint().getLatitude(),store.getGeoPoint().getLongitude(), results);
+
+        // If the item is closer than the previous one we save it
+        if (results[0] < distance) {
+            nearestItem = new LatLng(store.getGeoPoint().getLatitude(),store.getGeoPoint().getLongitude());
+            ndistance = results[0];
+        }
+
+        // Bounds with the device location + the nearest item
+        LatLngBounds.Builder builder = new LatLngBounds.Builder();
+        builder.include(nearestItem != null ? nearestItem : null);
+        builder.include(new LatLng(mDeviceLocation.getDeviceLocation().getLatitude(),mDeviceLocation.getDeviceLocation().getLongitude()));
+
         // Setting the values
         viewHolder.storePosition.setText(position + 1 + ". ");
         viewHolder.name.setText(store.getName());
@@ -93,7 +124,7 @@ public class StoreListAdapter extends ArrayAdapter<PointOfService> {
         viewHolder.tel.setText(store.getAddress().getPhone());
         viewHolder.distance.setText(store.getFormattedDistance());
 
-        // Distance intent
+        // Direction intent
         viewHolder.directions.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -143,26 +174,6 @@ public class StoreListAdapter extends ArrayAdapter<PointOfService> {
         return d;
     }
 
-    private double distance(double lat1, double lon1, double lat2, double lon2) {
-        double theta = lon1 - lon2;
-        double dist = Math.sin(deg2rad(lat1))
-                * Math.sin(deg2rad(lat2))
-                + Math.cos(deg2rad(lat1))
-                * Math.cos(deg2rad(lat2))
-                * Math.cos(deg2rad(theta));
-        dist = Math.acos(dist);
-        dist = rad2deg(dist);
-        dist = dist * 60 * 1.1515;
-        return (dist);
-    }
-
-    private double deg2rad(double deg) {
-        return (deg * Math.PI / 180.0);
-    }
-
-    private double rad2deg(double rad) {
-        return (rad * 180.0 / Math.PI);
-    }
 //=====================end of the method=======================================================
     static class ViewHolder {
         private TextView storePosition;

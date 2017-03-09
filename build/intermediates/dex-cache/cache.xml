@@ -151,7 +151,7 @@
         jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="c31ebd44c8b225653b532e7899c6327e96a6fc79">
+        sha1="0d96aac6ef24fcee9d10acc38f3a3fe263c168fe">
         <dex dex="C:\Y6.3.0.0\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\hybris-Mobile-Apps-SDK-Android-yLocationLibrary-unspecified_b817094cd9e4fd04f39025664c0067b65f97df65.jar" />
     </item>
     <item

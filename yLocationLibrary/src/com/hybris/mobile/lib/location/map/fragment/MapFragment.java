@@ -178,7 +178,7 @@ public class MapFragment extends LocationFragment {
             }
 
             // Update the position of the camera
-            updateCameraPosition();
+//            updateCameraPosition();
 
         }
     }
@@ -357,7 +357,7 @@ public class MapFragment extends LocationFragment {
      */
     protected void updateCameraPosition() {
         if (!mIsMapStatic && mMap != null && mMapConfiguration != null && mIsMapLoaded) {
-            updateCameraPosition(mMapConfiguration.getCameraPosition());
+//            updateCameraPosition(mMapConfiguration.getCameraPosition());
         }
     }
 
@@ -440,7 +440,7 @@ public class MapFragment extends LocationFragment {
                     builder.include(nearestItem != null ? nearestItem : null);
                     builder.include(new LatLng(getDeviceLocation().getLatitude(), getDeviceLocation().getLongitude()));
 
-                    mMap.animateCamera(CameraUpdateFactory.newLatLngBounds(builder.build(), mMapConfiguration.getPadding()), mMapConfiguration.getAnimationSpeed(), mCameraAnimationCallback);
+//                    mMap.animateCamera(CameraUpdateFactory.newLatLngBounds(builder.build(), mMapConfiguration.getPadding()), mMapConfiguration.getAnimationSpeed(), mCameraAnimationCallback);
                 } else {
                     updateCameraPosition(MapConfiguration.CameraPosition.DEFAULT);
                 }
